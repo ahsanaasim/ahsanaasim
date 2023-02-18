@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<a href="https://www.upwork.com/freelancers/~01023bde5c04b543c0"><img src="https://img.shields.io/static/v1?label=Top Rated Plus&labelColor=222222&color=468e2a&message=Freelancer&style=flat&logo=upwork&logoColor=6FDA44" width="200" /></a>
+<a href="https://www.upwork.com/freelancers/~01023bde5c04b543c0" target="_blank"><img src="https://img.shields.io/static/v1?label=Top Rated Plus&labelColor=222222&color=468e2a&message=Freelancer&style=flat&logo=upwork&logoColor=6FDA44" width="200" /></a>
 
 <br />
 
@@ -34,17 +34,22 @@
 </div>
 
 
-## Connect with me:
-<p align="left">
+<div>
 
-<!-- <a href = "https://www.linkedin.com/in/Mohammad Jonayed/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/Mohammad Jonayed"><img src="https://image.flaticon.com/icons/png/128/733/733547.png"/></a>
-<a href = "https://www.github.com/ALP-Aarslaan/"><img src="https://image.flaticon.com/icons/png/128/1051/1051326.png"/></a> -->
+<img align="right" height="250" width="375" alt="" src="https://github-readme-stats.vercel.app/api?username=ahsanaasim&show_icons=true&count_private=true" />
 
-</p>  
+### Talking about Personal Stuffs:
 
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
+- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+	
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsanaasim&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahsanaasim)  
 
