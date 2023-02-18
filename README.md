@@ -73,4 +73,4 @@
 <br >
  
 
-<img align="center" src="https://metrics.lecoq.io/ahsanaasim" style="width: 600px;"> 
+<img align="center" src="https://metrics.lecoq.io/ahsanaasim"> 
