@@ -62,8 +62,9 @@
 
 <br />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanaasim">
-
+<div align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanaasim"> 
+</div>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahsanaasim)  
 
