@@ -1,5 +1,5 @@
 
-<a href="#"><img width="100%" height="auto" src="main-photo.png" height="175px"/></a>
+<h3 align="center"><img align="center" width="200" height="auto" src="main-photo.png" height="175px"/></h3>
 
 <h3 align="center">Hey there, I'm <b>Ahsan Aasim</b> - aka Codejamer </h3>
 
