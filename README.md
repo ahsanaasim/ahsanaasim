@@ -1,9 +1,15 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h3 align="center">Hey there, I'm <a href="https://www.upwork.com/freelancers/~01023bde5c04b543c0">Ahsan Aasim</a> - aka Codejammer </h3>
+<h3 align="center">Hey there, I'm <b>Ahsan Aasim</b> - aka Codejamer </h3>
 
 <div align="center">
+
+<a href="https://www.upwork.com/freelancers/~01023bde5c04b543c0"><img src="https://img.shields.io/static/v1?label=Top Rated Plus&labelColor=222222&color=468e2a&message=Freelancer&style=flat&logo=upwork&logoColor=6FDA44" width="200" /></a>
+
+<br />
+
+
 
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/-Express.js-222222?style=flat&logo=express&logoColor=gray)
@@ -26,11 +32,6 @@
   
 
 </div>
-
-- 🔭 I’m currently working on i am currently working on a web development project named StudyHub and working  on a Machine Learning based research project on Post Covid Vulnerabilities. 
-- 🌱 I’m currently learning Django, Machine Learning, Artificial Intelligence.  
-- 👯 I’m looking to collaborate on github 
-- 📫 Way to reach me: ahsan.aasim@gmail.com 
 
 
 ## Connect with me:
