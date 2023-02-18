@@ -60,11 +60,13 @@
 	</p>
 </div>
 
+<br />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanaasim">
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahsanaasim)  
 
 ![GitHub metrics](https://metrics.lecoq.io/ahsanaasim)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ahsanaasim)  
 
 ![Profile views](https://gpvc.arturio.dev/ahsanaasim)  
