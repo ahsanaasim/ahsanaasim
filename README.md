@@ -14,6 +14,9 @@
   ![Swift](https://img.shields.io/badge/-Swift-222222?style=flat&logo=Swift&logoColor=F05138)
   ![MySQL](https://img.shields.io/badge/-MySQL-222222?style=flat&logo=MySQL&logoColor=4479A1)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=MongoDB&logoColor=47A248)
+  ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-222222?style=flat&logo=GoogleCloud&logoColor=4285F4)
+  ![Amazon AWS](https://img.shields.io/badge/-Amazon_AWS-222222?style=flat&logo=AmazonAWS&logoColor=ff9900)
+  ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-222222?style=flat&logo=DigitalOcean&logoColor=0080FF)
   
 
 </div>
