@@ -3,11 +3,20 @@
 
 <h3 align="center">Hey there, I'm <a href="https://www.upwork.com/freelancers/~01023bde5c04b543c0">Ahsan Aasim</a> - aka Codejammer </h3>
 
+<div align="center">
 
-<!-- I'm a tech geek that tries to learn something new every day and stay up with emerging technology. very driven. At the University of Asia Pacific, I'm a student presently enrolled in the Computer Science & Engineering program.
-I've completed various projects and done some software development on my own in addition to taking some online courses on android development. In addition, I am proficient in a number of programming languages, including C, C++, Java, and Python. Sometimes I take part in intense programming competitions. Additionally, I have completed various classes on Coursera and earned certifications in Python, Django, and Machine Learning. I also have extensive expertise of Database Management Systems, Algorithms, Data Structures, Discrete Mathematics, Linear Algebra, Statistics & Calculus. -->
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/-Express.js-222222?style=flat&logo=express&logoColor=gray)
+![Nest.js](https://img.shields.io/badge/-NestJS-222222?style=flat&logo=NestJS&logoColor=E0234E)
+  ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/-Next.js-222222?style=flat&logo=Next.js&logoColor=gray)
+  ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=Python&logoColor=3776AB)
+  ![Swift](https://img.shields.io/badge/-Swift-222222?style=flat&logo=Swift&logoColor=F05138)
+  ![MySQL](https://img.shields.io/badge/-MySQL-222222?style=flat&logo=MySQL&logoColor=4479A1)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=MongoDB&logoColor=47A248)
+  
 
-<p align="center">Node.js / Express.js / Nest.js / React.js / Next.js / Python / iOS Swift / MySQL/ MongoDB</p>
+</div>
 
 - 🔭 I’m currently working on i am currently working on a web development project named StudyHub and working  on a Machine Learning based research project on Post Covid Vulnerabilities. 
 - 🌱 I’m currently learning Django, Machine Learning, Artificial Intelligence.  
