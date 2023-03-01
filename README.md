@@ -40,13 +40,11 @@
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; Top Rate Plus Freelancer on Upwork
+- 🛠 &nbsp; Top Rate Plus Freelancer on [Upwork](https://www.upwork.com/freelancers/~01023bde5c04b543c0)
 - 🚀 &nbsp; 100% Satisfied Clients
 - 👨🏻‍💻 &nbsp; Development experience with Microsoft
 - 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Cover Letter](https://github.com/ahsanaasim/ahsanaasim/blob/master/CoverLetter.pdf).
 	
 </div>
 
