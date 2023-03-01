@@ -43,6 +43,8 @@
 - 🛠 &nbsp; Top Rate Plus Freelancer on [Upwork](https://www.upwork.com/freelancers/~01023bde5c04b543c0)
 - 👨🏻‍💻 &nbsp; 100% Satisfied Clients since 2011
 - 🚀 &nbsp; Development experience with Microsoft
+- 🛠 &nbsp; BSC in CSE from [AIUB](https://www.aiub.edu/)
+- 🛠 &nbsp; MBA from [BUP](https://bup.edu.bd/)
 - 💬 &nbsp; Ask me about anything [here](https://github.com/ahsanaasim/ahsanaasim/issues/2)! I am happy to help.
 - 📝 &nbsp; Checkout my [Cover Letter](https://github.com/ahsanaasim/ahsanaasim/blob/master/CoverLetter.pdf).
 	
