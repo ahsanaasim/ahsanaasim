@@ -38,7 +38,7 @@
 
 <img align="right" height="250" width="375" alt="" src="https://github-readme-stats.vercel.app/api?username=ahsanaasim&show_icons=true&count_private=true" />
 
-### Talking about Personal Stuffs:
+### Talking about Me:
 
 - 🛠 &nbsp; Top Rate Plus Freelancer on [Upwork](https://www.upwork.com/freelancers/~01023bde5c04b543c0)
 - 👨🏻‍💻 &nbsp; 100% Satisfied Clients since 2011
