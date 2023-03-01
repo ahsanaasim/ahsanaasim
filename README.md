@@ -56,7 +56,7 @@
 	<img align="left" height="250" width="375" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanaasim&exclude_repo=Portfolio,HomePal&langs_count=12&layout=compact&bg_color=transparent" />
 	<h3 align="right" style="text-align: right;">Technologies I'm expert in</h3>
 	<p align="right" style="text-align: right;">
-	I have 10+ years of experience in Node.js, Exress.js, Nest.js, React.js, Next.js, Typescript, Python, Java, Android, Spring Framework, Swift, MySQL, MongoDB, Selenium Automation, Docker, Jenkins, Google Cloud, Amazon AWS, DigitalOcean, etc. I have 10+ years of experience in Node.js, Exress.js, Nest.js, React.js, Next.js, Typescript, Python, Java, Android, Spring Framework, Swift, MySQL.
+	With over 10 years of experience, I am skilled in various programming languages and frameworks such as Node.js, Exress.js, Nest.js, React.js, Next.js, Typescript, Python, Java, Android, Spring Framework, Swift, as well as databases like MySQL and MongoDB. In addition, I have expertise in automation testing with Selenium, and experience working with technologies like Docker, Jenkins, Google Cloud, Amazon AWS, and DigitalOcean.
 	</p>
 </div>
 
