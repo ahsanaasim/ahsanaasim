@@ -42,7 +42,7 @@ My work sits where **technical strategy, people leadership, and hands-on enginee
 
 | | Venture / Product | What it is | My role |
 |:-:|---|---|---|
-| 🚀 | **[6sense HQ](https://github.com/6sense-Technologies)** | Software engineering company in Dhaka, Bangladesh, delivering dedicated product teams, staff augmentation, and custom software for clients worldwide | **CTO** — technology vision, engineering org, delivery quality, AI adoption |
+| 🚀 | **[6sense HQ](https://6sensehq.com)** | Software engineering company in Dhaka, Bangladesh, delivering dedicated product teams, staff augmentation, and custom software for clients worldwide | **CTO** — technology vision, engineering org, delivery quality, AI adoption |
 | ⚡ | **[Charge OnSite](https://chargeonsite.com)** | EV charging platform for multi-family, commercial, retail, and hospitality properties: cloud charger management, access and pricing control, and app-free scan-to-charge for drivers | Technology leadership — platform architecture, OCPP integrations, charger management |
 | 📊 | **PeakETL** | Data integration and ETL platform for moving, transforming, and syncing business data at scale | Technology leadership — product architecture and data engineering |
 | 🌀 | **Turbine** | <!-- TODO: one-line description of Turbine --> AI-powered product accelerating how teams build and ship software | Technology leadership — AI and agentic architecture |
@@ -123,7 +123,6 @@ I treat AI agents as teammates, not toys. My teams and I build:
 - 🚀 Development experience with **Microsoft**
 - 🎓 **B.Sc. in Computer Science & Engineering** — [AIUB](https://www.aiub.edu/)
 - 📖 **MBA** — [Bangladesh University of Professionals (BUP)](https://bup.edu.bd/)
-- 📝 [Cover Letter](https://github.com/ahsanaasim/ahsanaasim/blob/master/CoverLetter.pdf)
 
 ---
 
