@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <b>CTO at <a href="6sensehq.com">6sense HQ</a></b> · Engineering Leader · Agentic AI Builder · Mentor<br/>
+  <b>CTO at <a href="https://6sensehq.com">6sense HQ</a></b> · Engineering Leader · Agentic AI Builder · Mentor<br/>
   <i>"There is a beauty in simplicity."</i>
 </p>
 
